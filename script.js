@@ -3,6 +3,7 @@ fetch('datos.json')
   .then(data => {
     document.getElementById('nombre').textContent = data.nombre;
     document.getElementById('email').textContent = data.email;
+    document.getElementById('telefono').textContent = data.telefono;
     document.getElementById('resumen').textContent = data.resumen;
 
     const expList = document.getElementById('experiencia');

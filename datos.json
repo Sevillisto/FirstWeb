@@ -1,6 +1,8 @@
 {
   "nombre": "Jorge González",
   "email": "jorgeglez.70@gmail.com",
+  "telefono": 677077998,
+  "linkedin": "https://es.linkedin.com/in/jorge-gonzalez-guzman",
   "resumen": "Técnico en sistemas con experiencia en soporte y mantenimiento de hardware.",
   "experiencia": [
     "Técnico informático en XYZ S.L. (2022-2023)",

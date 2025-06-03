@@ -1,8 +1,43 @@
 
 header {
-background-color: #333;
+background-color: #b394fdaf;
 color: #fff;
 padding: 20px;
+}
+
+#fotoCV {
+  clip-path: circle(50%);
+  max-width:100%;
+  width:auto;
+  height:auto;
+}
+
+#container_15{
+  max-width: 860px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+header hgroup {
+  float: right;
+  text-align: center;
+}
+
+#cv1 {
+  width: 45px;
+  height: 55px;
+  /* IE 9 */
+  -ms-transform: rotate(15deg); 
+  /* Chrome, Safari, Opera */
+  -webkit-transform: rotate(15deg); 
+  transform: rotate(15deg);
+  box-shadow: 1px 1px 1px #888888;
+}
+
+#social {
+  width: 40px;
+  height: 40px;
+  margin: 10px 38px 25px 38px;
 }
 
 body {
@@ -16,6 +51,7 @@ background-size: cover;
   background-repeat: no-repeat;
 
 }
+
 
 h1 {
   color: #db3040;
