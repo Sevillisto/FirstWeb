@@ -1,16 +1,26 @@
 {
-  "nombre": "Jorge González",
+  "nombre": "Jorge González Guzmán",
   "email": "jorgeglez.70@gmail.com",
   "telefono": 677077998,
   "linkedin": "https://es.linkedin.com/in/jorge-gonzalez-guzman",
-  "resumen": "Técnico en sistemas con experiencia en soporte y mantenimiento de hardware.",
+  "resumen": "Profesional de la aeronáutica y de la informática, con formación y experiencia en reporting y desarrollo.",
+  "softskills": "Gran capacidad de resolución de conflictos, generador de ideas, ordenado, organizado y buen comunicador",
   "experiencia": [
-    "Técnico informático en XYZ S.L. (2022-2023)",
-    "Prácticas en el departamento IT de Empresa ABC (2021)",
-    "Abrazando Farolas, 1991"
+    "PRODUCTION CONTROL. ALTEN Spain S.A.U. Subcontractor on AIRBUS. (abril 2024-abril 2025).",
+    "SUPPLY CHAIN. CONSULTOR – INDUSTRIALIZACIÓN MRTT. ALTEN Spain S.A.U. Subcontractor on AIRBUS. (febrero 2024-abril 2024).",
+    "SUPPLY CHAIN. CONSULTOR - TÉCNICO DE LANZAMIENTO DE PEDIDOS DE REPARACIONES. ALTRAN- Capgemini Engineering. Subcontractor on AIRBUS. (mayo 2022-febrero 2024).",
+    "SUPPLY CHAIN. TÉCNICO DE REPORTING. VISIBILIDAD Y PLANIFICACIÓN. ALTRAN- Capgemini Engineering. Subcontractor on AIRBUS. (marzo 2021-mayo 2022).",
+    "CONSULTOR AERONÁUTICO. PROGRAMADOR VISUAL BASIC. ALTEN Spain S.A.U. (febrero 2020-abril 2020).",
+    "TÉCNICO DE INFORMÁTICA DE GESTIÓN. (Emple@ Joven). Ayuntamiento de Villanueva del Ariscal. (mayo 2019-noviembre 2019).",
+    "PROGRAMADOR EN PRÁCTICAS. Ignus Community. (enero 2019-febrero 2019)",
+    "TÉCNICO DE SISTEMAS MICROINFORMÁTICOS. (Emple@ Joven). Ayuntamiento de Almería. (noviembre 2017 – mayo 2018).",
+    "TÉCNICO DE INFORMÁTICA DE GESTIÓN. (Emple@ Joven). Ayuntamiento de Linares. (abril 2017 – septiembre 2017).",
+    " ADMINISTRADOR DE BASES DE DATOS (EN PRÁCTICAS). (junio 2014 – Julio 2014)."
   ],
   "educacion": [
-    "Grado medio en Sistemas Microinformáticos y Redes (2020-2022)",
-    "Certificado de profesionalidad en Operación de sistemas informáticos (2023)"
+    "CICLO SUPERIOR DE DESARROLLO DE APLICACIONES WEB (DAW) (diciembre 2020 – en curso). Ilerna Online.",
+    "GRADO EN GESTIÓN Y ADMINISTRACIÓN PÚBLICA (septiembre 2009 – enero 2015). Facultad de Derecho, Universidad de Sevilla",
+    "(septiembre 2018 – febrero 2019) Certificado de profesionalidad. IFCT 0609. CURSO DE PROGRAMACIÓN DE SISTEMAS INFORMÁTICOS. Centro de Formación Martín Jaén S.L.",
+    "(octubre 2016 – febrero 2017) I PROGRAMA MARKETING DIGITAL GENERATION (480 HORAS). Escuela de Organización Industrial (EOI) - McKinsey."
   ]
 }
